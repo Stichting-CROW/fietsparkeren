@@ -78,17 +78,17 @@ function indexOfRequirements(config) {
 var respecConfig = {
   // => https://github.com/stichting-crow/respec/wiki
   specStatus: "DRAFT",
-  pubDomain: "verkeersborden",
+  pubDomain: "fietsparkeren",
   shortName: "beheerplan",
   license: "CC-BY",
-  subtitle: "Open beheer conform BOMOS",
+  subtitle: "Basis voor fietsparkeernormering",
   editors: [
     {
-      name: "Elisabeth Klören",
+      name: "Ronald van der Weerd",
       company: "CROW",
     },
     {
-      name: "Redmer Kronemeijer",
+      name: "Aart Wijnstekers",
       company: "CROW",
     },
   ],
