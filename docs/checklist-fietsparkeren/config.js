@@ -87,10 +87,6 @@ var respecConfig = {
       name: "Ronald van der Weerd",
       company: "CROW",
     },
-    {
-      name: "Aart Wijnstekers",
-      company: "CROW",
-    },
   ],
   github: "https://github.com/Stichting-CROW/fietsparkeren",
   postProcess: [indexOfRequirements],
