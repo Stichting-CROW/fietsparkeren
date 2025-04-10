@@ -19,6 +19,8 @@ Een afbeelding of tekst op een Fysieke Plaat. De meeste iconen hebben hun oorspr
 </dd>
 
 
+<dt><dfn data-lt="verkeersgeneratie">verkeersgeneratie</dfn></dt>
+
 
 
 
