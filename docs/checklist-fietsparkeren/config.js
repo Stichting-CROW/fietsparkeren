@@ -79,9 +79,9 @@ var respecConfig = {
   // => https://github.com/stichting-crow/respec/wiki
   specStatus: "DRAFT",
   pubDomain: "verkeersborden",
-  shortName: "beheerplan",
+  shortName: "checklist-fietsparkeren",
   license: "CC-BY",
-  subtitle: "Basis voor fietsparkeernormering",
+  subtitle: "",
   editors: [
     {
       name: "Ronald van der Weerd",
