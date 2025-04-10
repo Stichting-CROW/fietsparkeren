@@ -81,14 +81,14 @@ var respecConfig = {
   pubDomain: "verkeersborden",
   shortName: "beheerplan",
   license: "CC-BY",
-  subtitle: "Open beheer conform BOMOS",
+  subtitle: "Basis voor fietsparkeernormering",
   editors: [
     {
-      name: "Elisabeth Klören",
+      name: "Ronald van der Weerd",
       company: "CROW",
     },
     {
-      name: "Redmer Kronemeijer",
+      name: "Aart Wijnstekers",
       company: "CROW",
     },
   ],
