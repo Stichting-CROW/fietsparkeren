@@ -1,5 +1,5 @@
 ## Deze publicatie is een publicatie van CROW
-CROW-KpVV
+## CROW-KpVV
 CROW-KpVV ontwikkelt, verspreidt en borgt collectieve kennis voor de decentrale overheden op het
 gebied van mobiliteit. Het gaat om kennis die fundamenteel ondersteunt bij de beleidsontwikkeling en
 -uitvoering.
@@ -18,4 +18,5 @@ kunnen er onjuistheden in deze publicatie voorkomen. Gebruikers aanvaarden het r
 CROW sluit, mede ten behoeve van degenen die aan deze publicatie hebben meegewerkt,
 iedere aansprakelijkheid uit voor schade die mocht voortvloeien uit het gebruik van de gegevens.
 De inhoud van deze publicatie valt onder bescherming van de auteurswet.
+
 De auteursrechten berusten bij CROW.
