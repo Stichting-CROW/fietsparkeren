@@ -78,7 +78,7 @@ function indexOfRequirements(config) {
 var respecConfig = {
   // => https://github.com/stichting-crow/respec/wiki
   specStatus: "DRAFT",
-  pubDomain: "verkeersborden",
+  pubDomain: "fietsparkeren",
   shortName: "checklist-fietsparkeren",
   license: "CC-BY",
   subtitle: "",
